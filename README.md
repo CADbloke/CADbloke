@@ -1,5 +1,32 @@
-### Hi there 👋
+# CAD bloke
+### aka Ewen Wallace
 
+**https://www.tvCAD.tv** automates the boring bits of broadcast system design - cable schedules, offsheets, labels...
+**https://www.CADreplace.com** - AutoCAD and BricsCAD FIND but good. Replaces multiple things in multiple drawings in one step
+
+- :tv: Broadcast Systems Design and Documentation since last century
+- :computer: Developing: AutoCAD plugins & CAD apps since 2005, in C#, Lisp & VBA (yeahnah)
+- past lives include :movie_camera:, :camera:, :racing_car:+:video_camera:, :computer: in the 80s
+
+
+
+### 💬 Ask me about
+- :tv: Broadcast systems
+- :computer: software development 
+  - .NET C#
+  - WPF
+  - AutoCAD, BricsCAD, OpenDesign platforms
+  - ~~Lisp, VBA~~ 
+  
+### :incoming_envelope: I shout into these voids
+- [Twitter](https://twitter.com/cadbloke)
+- [Linked In](https://au.linkedin.com/in/cadbloke)
+- [my lame website](https://cadbloke.com/)
+  
+### :house_with_garden: home is
+:koala: :dolphin: :whale: :wine_glass: 	[Newcastle, NSW, Australia](https://www.visitnewcastle.com.au/)
+
+# :beer: :beers: :beer:
 <!--
 **CADbloke/CADbloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
