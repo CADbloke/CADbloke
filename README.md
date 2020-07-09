@@ -18,11 +18,6 @@
   - AutoCAD, BricsCAD, [OpenDesign[(https://www.opendesign.com/) platforms
   - ~~Lisp, VBA~~ 
   
-### :incoming_envelope: I shout into these voids
-- [Twitter](https://twitter.com/cadbloke)
-- [Linked In](https://au.linkedin.com/in/cadbloke)
-- [my lame website](https://cadbloke.com/)
-  
 ### :house_with_garden: home is
 :koala: :dolphin: :whale: :wine_glass: 	[Newcastle, NSW, Australia](https://www.visitnewcastle.com.au/)
 
