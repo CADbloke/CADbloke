@@ -15,7 +15,7 @@
 - :computer: software development 
   - .NET C#
   - WPF
-  - AutoCAD, BricsCAD, OpenDesign platforms
+  - AutoCAD, BricsCAD, [OpenDesign[(https://www.opendesign.com/) platforms
   - ~~Lisp, VBA~~ 
   
 ### :incoming_envelope: I shout into these voids
