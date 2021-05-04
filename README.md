@@ -15,7 +15,7 @@
 - :computer: software development 
   - .NET C#
   - WPF
-  - AutoCAD, BricsCAD, [OpenDesign[(https://www.opendesign.com/) platforms
+  - AutoCAD, BricsCAD, [OpenDesign](https://www.opendesign.com/) platforms
   - ~~Lisp, VBA~~ 
   
 ### :house_with_garden: home is
