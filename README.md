@@ -8,7 +8,8 @@
 - :computer: Developing: AutoCAD plugins & CAD apps since 2005, in C#, Lisp & VBA (yeahnah)
 - past lives include :movie_camera:, :camera:, :racing_car:+:video_camera:, :computer: in the 80s
 
-
+### on StackOverflow
+<a href="https://stackoverflow.com/users/492/cad-bloke"><img src="https://stackoverflow.com/users/flair/492.png?theme=dark" width="208" height="58" alt="profile for CAD bloke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for CAD bloke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
 
 ### 💬 Ask me about
 - :tv: Broadcast systems
