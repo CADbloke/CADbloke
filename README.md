@@ -1,7 +1,7 @@
 # CAD bloke
 ### aka Ewen Wallace
 
-**https://www.tvCAD.tv** automates the boring bits of broadcast system design - cable schedules, offsheets, labels...
+**https://www.CableSchdules.com** automates the boring bits of broadcast system design - cable schedules, offsheets, labels...
 **https://www.CADreplace.com** - AutoCAD and BricsCAD FIND but good. Replaces multiple things in multiple drawings in one step
 
 - :tv: Broadcast Systems Design and Documentation since last century
