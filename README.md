@@ -1,8 +1,10 @@
 # CAD bloke
 ### aka Ewen Wallace
 
-**https://www.CableSchedules.com** automates the boring bits of broadcast system design - cable schedules, offsheets, labels...
-**https://www.CADreplace.com** - AutoCAD and BricsCAD FIND but good. Replaces multiple things in multiple drawings in one step
+- **https://www.CADtoNetbox.com** automates CAD wiring drawings syncing with Netbox...
+    - CAD to Netbox also includes my C# .NET Netbox API client generated from multiple versions of Netbox, not just from the YAML and not with SwaggerGen because that made an unholy mess. It is refined with info parsed from the Netbox source code. 
+- **https://www.CableSchedules.com** automates the boring bits of broadcast system design - cable schedules, offsheets, labels...
+- **https://www.CADreplace.com** - AutoCAD and BricsCAD FIND but good. Replaces multiple things in multiple drawings in one step
 
 - :tv: Broadcast Systems Design and Documentation since last century
 - :computer: Developing: AutoCAD plugins & CAD apps since 2005, in C#, Lisp & VBA (yeahnah)
@@ -10,6 +12,8 @@
 
 ### on StackOverflow
 <a href="https://stackoverflow.com/users/492/cad-bloke"><img src="https://stackoverflow.com/users/flair/492.png?theme=dark" width="208" height="58" alt="profile for CAD bloke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for CAD bloke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
+
+https://www.linkedin.com/in/cadbloke
 
 ### 💬 Ask me about
 - :tv: Broadcast systems
